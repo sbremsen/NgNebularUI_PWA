@@ -1,6 +1,8 @@
 # MyTicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+Nebular is used for front-end styling (https://akveo.github.io/nebular/)
+Contains an SPA Angular application with a Tic Tac Toe game. 
 
 ## Development server
 
