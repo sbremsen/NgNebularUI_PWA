@@ -1,0 +1,98 @@
+{
+  "configVersion": 1,
+  "timestamp": 1603750562804,
+  "index": "https://github.com/sbremsen/NgNebularUI_PWA/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/sbremsen/NgNebularUI_PWA/favicon.ico",
+        "https://github.com/sbremsen/NgNebularUI_PWA/index.html",
+        "https://github.com/sbremsen/NgNebularUI_PWA/main.5aec25fd7fe40ccbe2e4.js",
+        "https://github.com/sbremsen/NgNebularUI_PWA/main.cdb5c11f937f61cbb7f8.js",
+        "https://github.com/sbremsen/NgNebularUI_PWA/main.js",
+        "https://github.com/sbremsen/NgNebularUI_PWA/manifest.webmanifest",
+        "https://github.com/sbremsen/NgNebularUI_PWA/ngsw-worker.js",
+        "https://github.com/sbremsen/NgNebularUI_PWA/polyfills.35a5ca1855eb057f016a.js",
+        "https://github.com/sbremsen/NgNebularUI_PWA/polyfills.js",
+        "https://github.com/sbremsen/NgNebularUI_PWA/runtime.acf0dec4155e77772545.js",
+        "https://github.com/sbremsen/NgNebularUI_PWA/runtime.js",
+        "https://github.com/sbremsen/NgNebularUI_PWA/safety-worker.js",
+        "https://github.com/sbremsen/NgNebularUI_PWA/styles.89d448819c5cbda2e3cf.css",
+        "https://github.com/sbremsen/NgNebularUI_PWA/styles.js",
+        "https://github.com/sbremsen/NgNebularUI_PWA/vendor.js",
+        "https://github.com/sbremsen/NgNebularUI_PWA/worker-basic.min.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-128x128.png",
+        "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-144x144.png",
+        "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-152x152.png",
+        "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-192x192.png",
+        "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-384x384.png",
+        "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-512x512.png",
+        "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-72x72.png",
+        "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://github.com/sbremsen/NgNebularUI_PWA/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://github.com/sbremsen/NgNebularUI_PWA/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://github.com/sbremsen/NgNebularUI_PWA/index.html": "1bf738ccbf4fe44f0bbd6becb629f1df8e5a7206",
+    "https://github.com/sbremsen/NgNebularUI_PWA/main.5aec25fd7fe40ccbe2e4.js": "0590b7885f7cf24f6c49092bc60ea5588702bcfe",
+    "https://github.com/sbremsen/NgNebularUI_PWA/main.cdb5c11f937f61cbb7f8.js": "522d2c016256416d63dcd47013699e07ed47475f",
+    "https://github.com/sbremsen/NgNebularUI_PWA/main.js": "b3176d0aa4b83c9d5d4342b455bab816a0be1b25",
+    "https://github.com/sbremsen/NgNebularUI_PWA/manifest.webmanifest": "b42c2ad5ea2788e322cf5169f956f40c4daa74d6",
+    "https://github.com/sbremsen/NgNebularUI_PWA/ngsw-worker.js": "601253069e8f1d4f717e0bd54332587669d68261",
+    "https://github.com/sbremsen/NgNebularUI_PWA/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "https://github.com/sbremsen/NgNebularUI_PWA/polyfills.js": "f0674a2ae5259a14da5d2717c05c084ca5e55795",
+    "https://github.com/sbremsen/NgNebularUI_PWA/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://github.com/sbremsen/NgNebularUI_PWA/runtime.js": "154c277c076cfc8ee335df5d9349395c6bf58db5",
+    "https://github.com/sbremsen/NgNebularUI_PWA/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
+    "https://github.com/sbremsen/NgNebularUI_PWA/styles.89d448819c5cbda2e3cf.css": "5c9c73552df6d80a9e6d426471aa36af3ecfeb78",
+    "https://github.com/sbremsen/NgNebularUI_PWA/styles.js": "4e9a5754b46a0d59ec9af042e3af696d0f134716",
+    "https://github.com/sbremsen/NgNebularUI_PWA/vendor.js": "3ddb64cc0337329ea1e243a903de6345478ce44c",
+    "https://github.com/sbremsen/NgNebularUI_PWA/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
